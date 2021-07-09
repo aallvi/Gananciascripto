@@ -69,7 +69,7 @@ function ganancia(compra,precioCripto,precioCriptoFinal){
 
          <p> Variacion de Capital : ${variacionCapital.toFixed(2)}% </p> 
 
-         <p> Monto Final : ${montoFinal.toFixed(2)} </p>  
+         <p> Monto Final : $${montoFinal.toFixed(2)} </p>  
         
         `
         
